@@ -1,0 +1,20 @@
+{
+    "Variables":
+    {
+        "sys_vars":
+        [
+            {
+                "name":"PythonicTest",
+                "value":"test"
+            }
+
+        ],
+        "user_vars":
+        [
+            {
+                "name":"Test",
+                "value":"Test"
+            }
+        ]
+    }
+}
