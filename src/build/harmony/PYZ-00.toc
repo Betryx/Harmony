@@ -114,6 +114,7 @@
   ('string', 'E:\\python\\lib\\string.py', 'PYMODULE'),
   ('stringprep', 'E:\\python\\lib\\stringprep.py', 'PYMODULE'),
   ('subprocess', 'E:\\python\\lib\\subprocess.py', 'PYMODULE'),
+  ('sys_vars', 'E:\\downloads\\Harmony\\src\\sys_vars.py', 'PYMODULE'),
   ('tarfile', 'E:\\python\\lib\\tarfile.py', 'PYMODULE'),
   ('textwrap', 'E:\\python\\lib\\textwrap.py', 'PYMODULE'),
   ('threading', 'E:\\python\\lib\\threading.py', 'PYMODULE'),
@@ -123,5 +124,6 @@
   ('typing', 'E:\\python\\lib\\typing.py', 'PYMODULE'),
   ('urllib', 'E:\\python\\lib\\urllib\\__init__.py', 'PYMODULE'),
   ('urllib.parse', 'E:\\python\\lib\\urllib\\parse.py', 'PYMODULE'),
+  ('user_vars', 'E:\\downloads\\Harmony\\src\\user_vars.py', 'PYMODULE'),
   ('uu', 'E:\\python\\lib\\uu.py', 'PYMODULE'),
   ('zipfile', 'E:\\python\\lib\\zipfile.py', 'PYMODULE')])

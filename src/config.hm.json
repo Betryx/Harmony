@@ -6,6 +6,10 @@
             {
                 "name":"PythonicTest",
                 "value":"test"
+            },
+            {
+                "name":"PythonicTest2",
+                "value":"test2"
             }
 
         ],
@@ -14,6 +18,10 @@
             {
                 "name":"Test",
                 "value":"Test"
+            },
+            {
+                "name":"Test2",
+                "value":"Test2"
             }
         ]
     }
