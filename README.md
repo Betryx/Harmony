@@ -23,7 +23,8 @@ The primary goal of Harmony is to streamline the configuration process and avoid
 ## How to Use 👩‍🏫
 
 1. **Clone or Download**:  
-   - Clone the repository or download the `config.hm.json` template along with the `harmony.exe` executable.
+   - If you are on windows, clone the repository or download the `config.hm.json` template along with the `harmony.exe` executable.
+   If you are on linux or mac , clone the repo and add a shebang reference at the top in `harmony.py` 
    
 
 2. **Configure the Environment Variables**:  
@@ -35,7 +36,8 @@ The primary goal of Harmony is to streamline the configuration process and avoid
    - After editing the configuration file, save it.
 
 4. **Run the Executable**:  
-   - Execute the `harmony.exe` file.
+   - Execute the `harmony.exe` file or add shell reference at the top of `harmony.py`
+   in order to be detected from the shell.
    - When prompted, enter the path to your configuration file.
 
 5. **Execute the Configuration**:  
