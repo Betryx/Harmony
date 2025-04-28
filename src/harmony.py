@@ -1,10 +1,6 @@
 import os 
-import winreg as reg
 import json
 import time
-import stat
-import ctypes
-import sys
 import user_vars
 import sys_vars
 def main():
